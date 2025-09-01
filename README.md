@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe
 
-<!--
-**0Perera/0Perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Apaixonado por tecnologia, programação e resolução de problemas  
+🚀 Atualmente focado em **Java, Spring Boot e SQL**  
+📚 Também estudo **Python para Ciência de Dados**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+- **Linguagens:** Java | Python | SQL | JavaScript  
+- **Frameworks:** Spring Boot | JPA / Hibernate | JSP  
+- **Banco de Dados:** Oracle | SQL Server | SQLite  
+- **Ferramentas:** Git & GitHub | Maven | IntelliJ IDEA | VS Code  
+
+---
+
+## 📂 Projetos em destaque
+- 🔹 **Java Bank** – Sistema bancário em Java com foco em POO e boas práticas  
+- 🔹 **Microservices Catalog-Orders** – Projeto de microsserviços com Spring Boot, Spring Cloud, Eureka e Feign  
+- 🔹 **Jogo da Forca** – Aplicação em Java orientada a objetos com interação em console  
+
+---
+
+📫 **Vamos trocar uma ideia?**  
+
+💼 [LinkedIn](https://www.linkedin.com/in/felipe-pereira0201/)  
+📧 Email: feeps_@hotmail.com
+
