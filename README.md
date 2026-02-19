@@ -10,7 +10,7 @@
 ## 🚀 Tecnologias & Ferramentas
 - **Linguagens:** Java | Python | SQL | JavaScript  
 - **Frameworks:** Spring Boot | JPA / Hibernate | Flask  
-- **Banco de Dados:** MySQL | MongoDB   
+- **Banco de Dados:** MySQL    
 - **Ferramentas:** Git & GitHub | Maven | IntelliJ IDEA | VS Code  
 
 ---
