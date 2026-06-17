@@ -1,29 +1,52 @@
 # 👋 Olá, eu sou o Felipe
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por tecnologia, programação e resolução de problemas  
-🚀 Atualmente focado em **Java, Spring Boot e SQL**  
-📚 Também estudo **Python para Ciência de Dados**  
+**Desenvolvedor Backend** em formação, com foco em **Java** e **Spring Boot**.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🔍 Em busca da primeira oportunidade como desenvolvedor backend
+
+Tenho construído APIs REST e sistemas com Spring Boot, persistência com JPA/Hibernate
+e arquitetura de microsserviços, sempre buscando aplicar boas práticas e aprender de forma contínua.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Java | Python | SQL | JavaScript  
-- **Frameworks:** Spring Boot | JPA / Hibernate | Flask  
-- **Banco de Dados:** MySQL    
-- **Ferramentas:** Git & GitHub | Maven | IntelliJ IDEA | VS Code  
+## 🛠️ Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **Linguagem:** Java
+- **Frameworks:** Spring Boot, Spring Cloud, JPA / Hibernate
+- **Bancos de Dados:** PostgreSQL, MySQL
+- **Testes:** JUnit, Mockito
+- **Ferramentas:** Git & GitHub, Maven, Docker (básico), IntelliJ IDEA
 
 ---
 
 ## 📂 Projetos em destaque
-- 🔹 **Java Bank** – Sistema bancário em Java com foco em POO e boas práticas  
-- 🔹 **Microservices Catalog-Orders** – Projeto de microsserviços com Spring Boot, Spring Cloud, Eureka e Feign  
-- 🔹 **Jogo da Forca** – Aplicação em Java orientada a objetos com interação em console  
+
+### 🔹 [Spring To-do List](https://github.com/0Perera/spring-todolist-postgres)
+API REST para gerenciamento de tarefas com Spring Boot e PostgreSQL.
+Operações CRUD, persistência com JPA e **cobertura de testes com JUnit/Mockito**.
+
+### 🔹 [ShrinkIt — Encurtador de URL](https://github.com/0Perera/shrinkit-url-shortener)
+API REST para encurtamento de URLs, com geração de códigos e redirecionamento.
+Projeto em desenvolvimento, com testes automatizados.
+
+### 🔹 [Microservices Catalog-Orders](https://github.com/0Perera/Microservices-Catalog-Orders)
+Sistema de microsserviços com Spring Boot e Spring Cloud: catálogo de produtos e pedidos,
+descoberta de serviços com **Eureka**, comunicação entre serviços via **Feign** e API Gateway com filtro de autenticação.
+
+### 🔹 [Java Bank](https://github.com/0Perera/Java-bank)
+Simulação de sistema bancário em console aplicando POO (herança, composição, encapsulamento),
+`records` e `BigDecimal` para precisão monetária.
 
 ---
 
-📫 **Vamos trocar uma ideia?**  
+## 📫 Contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/felipe-pereira0201/)  
-📧 Email: feeps_@hotmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pereira0201/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:feeps_@hotmail.com)
