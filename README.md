@@ -1,11 +1,10 @@
 # 👋 Olá, eu sou o Felipe
 
-**Desenvolvedor Backend** em formação, com foco em **Java** e **Spring Boot**.
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+**Desenvolvedor Backend** em formação, com foco em **Java** e **Spring Boot**.    
+🎓 Estudante de Análise e Desenvolvimento de Sistemas   
 🔍 Em busca da primeira oportunidade como desenvolvedor backend
 
-Tenho construído APIs REST e sistemas com Spring Boot, persistência com JPA/Hibernate
-e arquitetura de microsserviços, sempre buscando aplicar boas práticas e aprender de forma contínua.
+Tenho desenvolvido APIs REST com Spring Boot, persistência de dados com JPA/Hibernate e aplicações com testes automatizados, sempre buscando aplicar boas práticas e evoluir de forma contínua no desenvolvimento backend.
 
 ---
 
@@ -37,8 +36,8 @@ API REST para encurtamento de URLs, com geração de códigos e redirecionamento
 Projeto em desenvolvimento, com testes automatizados.
 
 ### 🔹 [Microservices Catalog-Orders](https://github.com/0Perera/Microservices-Catalog-Orders)
-Sistema de microsserviços com Spring Boot e Spring Cloud: catálogo de produtos e pedidos,
-descoberta de serviços com **Eureka**, comunicação entre serviços via **Feign** e API Gateway com filtro de autenticação.
+Sistema de catálogo e pedidos com Spring Boot e Spring Cloud, explorando conceitos de
+microsserviços como descoberta de serviços (Eureka), comunicação via Feign e API Gateway.
 
 ### 🔹 [Java Bank](https://github.com/0Perera/Java-bank)
 Simulação de sistema bancário em console aplicando POO (herança, composição, encapsulamento),
