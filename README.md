@@ -1,51 +1,34 @@
-# 👋 Olá, eu sou o Felipe
+<img src="assets/terminal.svg" alt="Felipe Pereira de Souza, backend em Java e Spring Boot" width="100%">
 
-**Desenvolvedor Backend** em formação, com foco em **Java** e **Spring Boot**.    
-🎓 Estudante de Análise e Desenvolvimento de Sistemas   
-🔍 Em busca da primeira oportunidade como desenvolvedor backend
+<img src="assets/divisor.svg" alt="" width="100%">
 
-Tenho desenvolvido APIs REST com Spring Boot, persistência de dados com JPA/Hibernate e aplicações com testes automatizados, sempre buscando aplicar boas práticas e evoluir de forma contínua no desenvolvimento backend.
+### Stack
 
----
+**Sólido**
+`Java 21` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `MySQL` `SQL` `APIs REST` `JUnit 5` `Mockito` `MockMvc` `Git` `Maven` `Linux`
 
-## 🛠️ Stack
+**Já apliquei em projeto**
+`Spring Security` `JWT` `Flyway` `Testcontainers` `Docker` `Docker Compose` `Spring Cloud` `MapStruct` `Caffeine` `Bucket4j` `Swagger/OpenAPI` `IndexedDB` `Flask` `SQLAlchemy`
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Estudando**
+`LLM via API e tool-calling` `modelos locais em GPU` `STT/TTS`
 
-- **Linguagem:** Java
-- **Frameworks:** Spring Boot, Spring Cloud, JPA / Hibernate
-- **Bancos de Dados:** PostgreSQL, MySQL
-- **Testes:** JUnit, Mockito
-- **Ferramentas:** Git & GitHub, Maven, Docker (básico), IntelliJ IDEA
+<img src="assets/divisor.svg" alt="" width="100%">
 
----
+### Destaques
 
-## 📂 Projetos em destaque
+- **[rolo35](https://github.com/0Perera/rolo35)** — plataforma de venda de ingressos com mapa de assentos, construída em 7 dias trabalhando em período integral. Cada decisão está registrada no repositório.
+- **[sistema-etiquetas](https://github.com/0Perera/sistema-etiquetas)** — identifiquei o gargalo na expedição do almoxarifado e construí o sistema por conta própria, sem ninguém pedir. As máquinas não permitiam instalação e a rede bloqueava CDN, então virou um arquivo HTML único: era a única forma de algo rodar ali. Está em uso em todos os almoxarifados da usina.
+- **Auditoria 5S** `sem repositório público` — depois do sistema de etiquetas, o time responsável pelas auditorias me procurou. O processo deles consumia vários dias: ficha preenchida em papel, digitalizada no scanner, fotos montadas à mão num documento do Word, tudo impresso e digitalizado de novo para virar um arquivo só. Propus substituir a cadeia inteira por um formulário único que já entrega o PDF padronizado no fim.
 
-### 🔹 [Spring To-do List](https://github.com/0Perera/spring-todolist-postgres)
-API REST para gerenciamento de tarefas com Spring Boot e PostgreSQL.
-Operações CRUD, persistência com JPA e **cobertura de testes com JUnit/Mockito**.
+<img src="assets/divisor.svg" alt="" width="100%">
 
-### 🔹 [ShrinkIt — Encurtador de URL](https://github.com/0Perera/shrinkit-url-shortener)
-API REST para encurtamento de URLs, com geração de códigos e redirecionamento.
-Projeto em desenvolvimento, com testes automatizados.
+### Onde eu ando mexendo
 
-### 🔹 [Microservices Catalog-Orders](https://github.com/0Perera/Microservices-Catalog-Orders)
-Sistema de catálogo e pedidos com Spring Boot e Spring Cloud, explorando conceitos de
-microsserviços como descoberta de serviços (Eureka), comunicação via Feign e API Gateway.
+- Controle de concorrência em Postgres e testes de integração com Testcontainers, que é o assunto que mais me consumiu tempo nos últimos meses.
+- Um agente local que opera a máquina junto comigo, com modelo rodando na minha própria GPU, whitelist de comandos e log de auditoria de tudo que ele faz. A parte que mais me interessa é a memória: como decidir o que vale guardar de uma sessão e o que descartar, sem o custo de consolidação crescer sem controle. Ainda em projeto.
+- O sistema de auditoria de 5S, em avaliação pela TI. Roda no navegador do celular, offline, com foto como evidência e PDF padronizado no fim. Cheguei a avaliar um app, mas o único ganho seria publicar atualização, e eu não teria esse acesso: um arquivo que se manda por e-mail para qualquer aparelho entrega o mesmo por muito menos.
 
-### 🔹 [Java Bank](https://github.com/0Perera/Java-bank)
-Simulação de sistema bancário em console aplicando POO (herança, composição, encapsulamento),
-`records` e `BigDecimal` para precisão monetária.
+<img src="assets/divisor.svg" alt="" width="100%">
 
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pereira0201/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:feeps_@hotmail.com)
+[LinkedIn](https://linkedin.com/in/felipe-pereira0201) · feeps_@hotmail.com
